@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "comfort": {
+    "versionCode": 107,
+    "versionName": "1.5",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.03/JetourComfort.apk",
+    "sha256": "9145dfe583046f7af97c3b8bdd2e0848708989d29efc5004f17bb4158497e93c",
+    "notes": "Добавлено обновление через GitHub. Настройки комфорта и работа автоматики сохранены."
+  },
+  "installer": {
+    "versionCode": 13,
+    "versionName": "3.4",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.03/JetourUSB.apk",
+    "sha256": "365ee0077bf57ffbc51c40a5c914215b687ce6f6feac3b008a0b1c450bb61452",
+    "notes": "Добавлена проверка обновлений Jetour USB и установка свежего Комфорт Jetour на ГУ."
+  }
+}
