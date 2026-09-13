@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "comfort": {
-    "versionCode": 108,
-    "versionName": "1.6",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.03.1/JetourComfort.apk",
-    "sha256": "f50d811873dc8cbe9ef67d99f23a2e9d2287113d4483c710edb0df6940f28a92",
-    "notes": "Добавлены три уровня подогрева и вентиляции сидений, настраиваемый интервал усиления 1–10 °C и порог подогрева +13 °C по умолчанию."
+    "versionCode": 109,
+    "versionName": "1.7",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.13/JetourComfort.apk",
+    "sha256": "a6ca6ff2320e70df45de612f099b3685cf63904393e853ababd9e5f265a448de",
+    "notes": "Добавлен Android Auto · 5 ГГц по механизму Jetour 5G Helper: отдельный переключатель, применение при загрузке, проверка и восстановление настройки. По умолчанию выключен; новая интеграция ещё не проверена на ГУ. Исправлено завершение поездки для всех уровней сидений."
   },
   "installer": {
-    "versionCode": 14,
-    "versionName": "3.5",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.03.1/JetourUSB.apk",
-    "sha256": "7308a59ee525fe4ec59e227a077d48a5a781eb69ebc58f7d97505a4f39c3f4d3",
-    "notes": "Встроенная версия Комфорт Jetour обновлена до 1.6."
+    "versionCode": 15,
+    "versionName": "3.6",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.13/JetourUSB.apk",
+    "sha256": "62f55d47c858ba118e7545fab58e134ddc3e72daf823700998f335f8c266c882",
+    "notes": "Встроен Комфорт Jetour 1.7. После его установки автоматически выдаются все доступные заявленные права, включая разрешение установки обновлений. Итог проверяется; недоступные системные права отображаются отдельно. Самообновление компаньона через GitHub сохранено."
   }
 }
