@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "comfort": {
-    "versionCode": 109,
-    "versionName": "1.7",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.13/JetourComfort.apk",
-    "sha256": "a6ca6ff2320e70df45de612f099b3685cf63904393e853ababd9e5f265a448de",
-    "notes": "Добавлен Android Auto · 5 ГГц по механизму Jetour 5G Helper: отдельный переключатель, применение при загрузке, проверка и восстановление настройки. По умолчанию выключен; новая интеграция ещё не проверена на ГУ. Исправлено завершение поездки для всех уровней сидений."
+    "versionCode": 110,
+    "versionName": "1.8",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.14/JetourComfort.apk",
+    "sha256": "fe313bb337a78f3c710fe646f448b264caf32c8ad43e4925f58e3c78870627e3",
+    "notes": "Новый тёмный минималистичный интерфейс на одной странице. Оставлены только реализованные функции; добавлены автомобильная пиктограмма сиденья и стандартный символ обогрева лобового стекла."
   },
   "installer": {
-    "versionCode": 15,
-    "versionName": "3.6",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.13/JetourUSB.apk",
-    "sha256": "62f55d47c858ba118e7545fab58e134ddc3e72daf823700998f335f8c266c882",
-    "notes": "Встроен Комфорт Jetour 1.7. После его установки автоматически выдаются все доступные заявленные права, включая разрешение установки обновлений. Итог проверяется; недоступные системные права отображаются отдельно. Самообновление компаньона через GitHub сохранено."
+    "versionCode": 16,
+    "versionName": "3.7",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.14/JetourUSB.apk",
+    "sha256": "6f868c31dbfb8ec1fd1111b1a5033cd39daf3430c84ec207f03255a3546664a9",
+    "notes": "Встроен Комфорт Jetour 1.8 с новым интерфейсом. Автоматическая выдача доступных прав и самообновление через GitHub сохранены."
   }
 }
