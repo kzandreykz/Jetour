@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "comfort": {
-    "versionCode": 113,
-    "versionName": "1.11",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.14.2/JetourComfort.apk",
-    "sha256": "4873d46dcbb549c55a3ad9d2fdcde6b9841fb3b5cd90f94366a9ec75f9a63622",
-    "notes": "Плавающий индикатор теперь показывает только действительно нужные значения: остаток топлива в литрах и температуру ОЖ. Процент и запас хода удалены. Сохранено открытие приложения по нажатию и включение пассажирского сиденья по датчику присутствия."
+    "versionCode": 114,
+    "versionName": "1.12",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.14.4/JetourComfort.apk",
+    "sha256": "9b12af5a5b005d0e2ed8a01c8fd7c5a03f1735a6a1f6adc9684fce81a483906d",
+    "notes": "Исправлена настройка плавающих индикаторов на китайской ГУ: приложение больше не открывает отсутствующий системный экран разрешения. После выдачи права через Jetour USB окно запускается без перезагрузки приложения."
   },
   "installer": {
-    "versionCode": 19,
-    "versionName": "4.0",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.14.3/JetourUSB.apk",
-    "sha256": "163ae7abb6dfa33a9116d780700d3de5b5db4e0d4bf41b233e7147c9527aee82",
-    "notes": "Исправлено самообновление Jetour USB: после скачивания теперь открывается штатное системное подтверждение установки. Версия в интерфейсе читается из реально установленного APK. Встроен Комфорт Jetour 1.11."
+    "versionCode": 20,
+    "versionName": "4.1",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.14.4/JetourUSB.apk",
+    "sha256": "e7322c7d67ef87440088b5939c648b023c0de062414baf3ae44a80c830323507",
+    "notes": "Jetour USB теперь после установки Комфорт Jetour отдельно выдаёт и проверяет право плавающего окна через AppOps. Поддержаны оба варианта команды на прошивках Jetour. Встроен Комфорт Jetour 1.12."
   }
 }
