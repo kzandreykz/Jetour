@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "comfort": {
-    "versionCode": 110,
-    "versionName": "1.8",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.14/JetourComfort.apk",
-    "sha256": "fe313bb337a78f3c710fe646f448b264caf32c8ad43e4925f58e3c78870627e3",
-    "notes": "Новый тёмный минималистичный интерфейс на одной странице. Оставлены только реализованные функции; добавлены автомобильная пиктограмма сиденья и стандартный символ обогрева лобового стекла."
+    "versionCode": 112,
+    "versionName": "1.10",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.14.1/JetourComfort.apk",
+    "sha256": "ed7d76a9ccd54c95db3dbfb5c0f4854f9f14400705f403ee47f29ebb4704c4a6",
+    "notes": "Добавлены плавающие индикаторы топлива, запаса хода и температуры ОЖ. Нажатие на индикатор открывает приложение. Для пассажирского сиденья добавлено включение только при наличии пассажира, в том числе если он сядет позже в текущей поездке."
   },
   "installer": {
-    "versionCode": 16,
-    "versionName": "3.7",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.14/JetourUSB.apk",
-    "sha256": "6f868c31dbfb8ec1fd1111b1a5033cd39daf3430c84ec207f03255a3546664a9",
-    "notes": "Встроен Комфорт Jetour 1.8 с новым интерфейсом. Автоматическая выдача доступных прав и самообновление через GitHub сохранены."
+    "versionCode": 17,
+    "versionName": "3.8",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.14.1/JetourUSB.apk",
+    "sha256": "f79f4ac307649165016dba2b0c0b837391a1675add7ad907abd0c12c4a419bf5",
+    "notes": "Встроен Комфорт Jetour 1.10. При установке автоматически выдаются доступные разрешения, включая показ плавающих индикаторов поверх приложений ГУ."
   }
 }
