@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "comfort": {
-    "versionCode": 116,
-    "versionName": "1.14",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.17.2/JetourComfort.apk",
-    "sha256": "9f60482ee6dfc983ea2545a23d8eb7dfcf27468773cd801e5cbce1a17b9846c3",
-    "notes": "Удалена неработающая функция включения пассажирского сиденья только при наличии пассажира: убраны галочка, чтение датчика и отложенное ожидание. Обычное управление пассажирским сиденьем сохранено."
+    "versionCode": 117,
+    "versionName": "1.15",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.17.3/JetourComfort.apk",
+    "sha256": "cfd79f3aec098fc89f8d2ab63ab5ef20a8dd4956988b7b5a7d9df0b6dfb1b8f4",
+    "notes": "Исправлена штатная кнопка Назад: текущие настройки синхронно сохраняются, после чего Jetour Comfort сворачивается в фон вместо закрытия и визуального отката параметров. Фоновая автоматика продолжает работать."
   },
   "installer": {
-    "versionCode": 23,
-    "versionName": "4.4",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.17.2/JetourUSB.apk",
-    "sha256": "585100114f5c9835cb0984e40b963122478c8e9ec77af9fb615a1e38e827f4b5",
-    "notes": "В Jetour USB 4.4 встроен Комфорт Jetour 1.14 без функции датчика пассажира. Этот выпуск предназначен также для проверки нового самообновления компаньона 4.3: после обновления встроенная версия должна измениться на 1.14."
+    "versionCode": 24,
+    "versionName": "4.5",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.17.3/JetourUSB.apk",
+    "sha256": "c75f461fab5185f8d9af224e31fb26fad3cad0596d9082e3d51144ed2a0092b6",
+    "notes": "В Jetour USB 4.5 встроен Комфорт Jetour 1.15 с исправленной обработкой кнопки Назад."
   }
 }
