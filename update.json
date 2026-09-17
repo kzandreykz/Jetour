@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "comfort": {
-    "versionCode": 114,
-    "versionName": "1.12",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.14.4/JetourComfort.apk",
-    "sha256": "9b12af5a5b005d0e2ed8a01c8fd7c5a03f1735a6a1f6adc9684fce81a483906d",
-    "notes": "Исправлена настройка плавающих индикаторов на китайской ГУ: приложение больше не открывает отсутствующий системный экран разрешения. После выдачи права через Jetour USB окно запускается без перезагрузки приложения."
+    "versionCode": 115,
+    "versionName": "1.13",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.17/JetourComfort.apk",
+    "sha256": "5ff9cfdcdda619885c14d000293d26e2f64091533ad4c8fdfd5461fa3e7a3d74",
+    "notes": "Плавающее окно топлива и температуры ОЖ теперь можно перемещать пальцем. Позиция сохраняется после перезапуска и автоматически ограничивается краями экрана. Короткое нажатие по-прежнему открывает Комфорт Jetour."
   },
   "installer": {
-    "versionCode": 20,
-    "versionName": "4.1",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.14.4/JetourUSB.apk",
-    "sha256": "e7322c7d67ef87440088b5939c648b023c0de062414baf3ae44a80c830323507",
-    "notes": "Jetour USB теперь после установки Комфорт Jetour отдельно выдаёт и проверяет право плавающего окна через AppOps. Поддержаны оба варианта команды на прошивках Jetour. Встроен Комфорт Jetour 1.12."
+    "versionCode": 21,
+    "versionName": "4.2",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.17/JetourUSB.apk",
+    "sha256": "07dbf81128c16943d3999ed267b8f0762919097c1d228e10798097bbd4c5d149",
+    "notes": "В Jetour USB 4.2 встроен Комфорт Jetour 1.13 с перемещаемым плавающим индикатором топлива и температуры ОЖ. Автоматическая выдача права оверлея сохранена."
   }
 }
