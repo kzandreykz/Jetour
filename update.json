@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "comfort": {
-    "versionCode": 115,
-    "versionName": "1.13",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.17/JetourComfort.apk",
-    "sha256": "5ff9cfdcdda619885c14d000293d26e2f64091533ad4c8fdfd5461fa3e7a3d74",
-    "notes": "Плавающее окно топлива и температуры ОЖ теперь можно перемещать пальцем. Позиция сохраняется после перезапуска и автоматически ограничивается краями экрана. Короткое нажатие по-прежнему открывает Комфорт Jetour."
+    "versionCode": 116,
+    "versionName": "1.14",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.17.2/JetourComfort.apk",
+    "sha256": "9f60482ee6dfc983ea2545a23d8eb7dfcf27468773cd801e5cbce1a17b9846c3",
+    "notes": "Удалена неработающая функция включения пассажирского сиденья только при наличии пассажира: убраны галочка, чтение датчика и отложенное ожидание. Обычное управление пассажирским сиденьем сохранено."
   },
   "installer": {
-    "versionCode": 22,
-    "versionName": "4.3",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.17.1/JetourUSB.apk",
-    "sha256": "1bfc1fe7057cc0ad7d34d7140264115fbf21b4ecdd9f67c46bc215a683d8c898",
-    "notes": "Исправлено самообновление Jetour USB. Главное действие теперь обновляет сам компаньон вместе со встроенным Комфорт Jetour 1.13. Android сообщает итог установки, установленный versionCode проверяется, после успеха запускается уже новая версия. Установка Comfort на ГУ вынесена в отдельную кнопку."
+    "versionCode": 23,
+    "versionName": "4.4",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.17.2/JetourUSB.apk",
+    "sha256": "585100114f5c9835cb0984e40b963122478c8e9ec77af9fb615a1e38e827f4b5",
+    "notes": "В Jetour USB 4.4 встроен Комфорт Jetour 1.14 без функции датчика пассажира. Этот выпуск предназначен также для проверки нового самообновления компаньона 4.3: после обновления встроенная версия должна измениться на 1.14."
   }
 }
