@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "comfort": {
-    "versionCode": 120,
-    "versionName": "1.18",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.18.4/JetourComfort.apk",
-    "sha256": "c2aa425b6aed9500e3f76db64e1ee2e5d77ac03dc5cca2d86151251a21291103",
-    "notes": "Главный экран полностью переработан под штатную ГУ: одна компактная строка быстрых функций, ровные климатические карточки, компактные интеграции и безопасный отступ от нижней панели. Добавлена проверка поддержки Android Live Wallpaper: на прошивке Jetour неработающая кнопка применения заменена понятным объяснением ограничения штатного ALLauncher."
+    "versionCode": 121,
+    "versionName": "1.19",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.18.5/JetourComfort.apk",
+    "sha256": "17202d25aed2bee0d986dd4674ffe3efcf7d62a378a0f9514efb022933e9705e",
+    "notes": "Добавлен настоящий динамический главный экран в обход отсутствующего WallpaperService. Он зацикливает MP4/WebM и GIF, сохраняет выбранный файл, показывает часы и список приложений и может быть выбран главным экраном ГУ. Штатная нижняя автомобильная панель сохраняется, а декодер выключается при открытии другого приложения."
   },
   "installer": {
     "versionCode": 26,
