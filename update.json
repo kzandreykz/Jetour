@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "comfort": {
-    "versionCode": 118,
-    "versionName": "1.16",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.18/JetourComfort.apk",
-    "sha256": "f6332c12d6fed70d552542bf67bee3d695fe81a507c0bc1b0c3a1e7a51ca3a59",
-    "notes": "Добавлена перемещаемая плавающая кнопка со списком всех приложений ГУ. Интегрирован официальный Wallpaper Engine: открытие библиотеки, импорт .mpkg и применение выбранных живых обоев. Положение кнопки сохраняется, меню работает независимо от климатической автоматики."
+    "versionCode": 119,
+    "versionName": "1.17",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.18.2/JetourComfort.apk",
+    "sha256": "446d6de2c435c9518c6450e191291187046d8e2483c224d5b1d008e63c902a5d",
+    "notes": "Wallpaper Engine теперь устанавливается непосредственно из Комфорт Jetour: приложение скачивает проверенный APK из Jetour GitHub, сверяет SHA-256, пакет, версию и официальный сертификат, затем открывает одно системное подтверждение установки на ГУ."
   },
   "installer": {
     "versionCode": 26,
@@ -13,5 +13,12 @@
     "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.18.1/JetourUSB.apk",
     "sha256": "08d65ea3260cf2ef8861d7b2ed6c4f720c8ab47f7e490e710c0c280c9d8b06ac",
     "notes": "Исправлена установка больших сторонних APK: файл больше не загружается целиком в память телефона. Он передаётся обычным ADB push небольшими блоками, затем устанавливается с памяти ГУ командой pm install -r -g. Устранён OOM на Wallpaper Engine и других крупных пакетах."
+  },
+  "wallpaperEngine": {
+    "versionCode": 4354,
+    "versionName": "2.8.8",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.18.2/WallpaperEngine.apk",
+    "sha256": "6982c82745444c5f2eef5a3d8c89ad807360bb5849a133548a6b25d18f4c4cb0",
+    "notes": "Официальный неизменённый Wallpaper Engine для Android. Исходный сертификат: SHA-256 7ecc8cb57e5292537fc0af526b35ce42ce0f011692bb88a24a307d1e427bb8e6."
   }
 }
