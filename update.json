@@ -4,7 +4,7 @@
     "versionCode": 120,
     "versionName": "1.18",
     "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.18.3/JetourComfort.apk",
-    "sha256": "e3a1a294deea4d8652284f4ecb1eab8f05c1246a43bf967c3d4e5cd45a11d70c",
+    "sha256": "c2aa425b6aed9500e3f76db64e1ee2e5d77ac03dc5cca2d86151251a21291103",
     "notes": "Главный экран полностью переработан под штатную ГУ: одна компактная строка быстрых функций, ровные климатические карточки, компактные интеграции и безопасный отступ от нижней панели. Добавлена проверка поддержки Android Live Wallpaper: на прошивке Jetour неработающая кнопка применения заменена понятным объяснением ограничения штатного ALLauncher."
   },
   "installer": {
