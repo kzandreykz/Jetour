@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "comfort": {
-    "versionCode": 117,
-    "versionName": "1.15",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.17.3/JetourComfort.apk",
-    "sha256": "cfd79f3aec098fc89f8d2ab63ab5ef20a8dd4956988b7b5a7d9df0b6dfb1b8f4",
-    "notes": "Исправлена штатная кнопка Назад: текущие настройки синхронно сохраняются, после чего Jetour Comfort сворачивается в фон вместо закрытия и визуального отката параметров. Фоновая автоматика продолжает работать."
+    "versionCode": 118,
+    "versionName": "1.16",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.18/JetourComfort.apk",
+    "sha256": "f6332c12d6fed70d552542bf67bee3d695fe81a507c0bc1b0c3a1e7a51ca3a59",
+    "notes": "Добавлена перемещаемая плавающая кнопка со списком всех приложений ГУ. Интегрирован официальный Wallpaper Engine: открытие библиотеки, импорт .mpkg и применение выбранных живых обоев. Положение кнопки сохраняется, меню работает независимо от климатической автоматики."
   },
   "installer": {
     "versionCode": 25,
