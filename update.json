@@ -3,15 +3,15 @@
   "comfort": {
     "versionCode": 122,
     "versionName": "1.20",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.18.6/JetourComfort.apk",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.18.7/JetourComfort.apk",
     "sha256": "58803c94d32b19dfd2faa6dfcc26930a8f0bafb102f75d5e0cacd9f6dfe7cfa7",
     "notes": "Добавлена беспроводная передача MP4, WebM, GIF и изображений с Jetour USB прямо в динамический HOME-экран. Приём вручную включается на пять минут, работает в локальной Wi‑Fi-сети без облака и ADB и не держит файл целиком в памяти. Добавлено безопасное автоматическое нажатие системной кнопки установки на ГУ."
   },
   "installer": {
     "versionCode": 27,
     "versionName": "4.8",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.18.6/JetourUSB.apk",
-    "sha256": "665dcd0ff4550a465de0be6a59a0da67c29d8486d681f2f091287cabd17a9518",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.18.7/JetourUSB.apk",
+    "sha256": "0e5dd04b2dd320b88b9f37a6fcdd8fd58c23b1359970c2746dfd35e31b42bfe1",
     "notes": "Добавлена кнопка передачи динамического фона на ГУ по локальной Wi‑Fi-сети. Компаньон потоково отправляет файлы до 1 ГБ и автоматически находит Comfort, когда на ГУ включён пятиминутный режим приёма. При установке Comfort также включается узкая служба автоподтверждения системной кнопки установки."
   },
   "wallpaperEngine": {
