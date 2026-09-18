@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "comfort": {
-    "versionCode": 121,
-    "versionName": "1.19",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.18.5/JetourComfort.apk",
-    "sha256": "17202d25aed2bee0d986dd4674ffe3efcf7d62a378a0f9514efb022933e9705e",
-    "notes": "Добавлен настоящий динамический главный экран в обход отсутствующего WallpaperService. Он зацикливает MP4/WebM и GIF, сохраняет выбранный файл, показывает часы и список приложений и может быть выбран главным экраном ГУ. Штатная нижняя автомобильная панель сохраняется, а декодер выключается при открытии другого приложения."
+    "versionCode": 122,
+    "versionName": "1.20",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.18.6/JetourComfort.apk",
+    "sha256": "58803c94d32b19dfd2faa6dfcc26930a8f0bafb102f75d5e0cacd9f6dfe7cfa7",
+    "notes": "Добавлена беспроводная передача MP4, WebM, GIF и изображений с Jetour USB прямо в динамический HOME-экран. Приём вручную включается на пять минут, работает в локальной Wi‑Fi-сети без облака и ADB и не держит файл целиком в памяти. Добавлено безопасное автоматическое нажатие системной кнопки установки на ГУ."
   },
   "installer": {
-    "versionCode": 26,
-    "versionName": "4.7",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.18.1/JetourUSB.apk",
-    "sha256": "08d65ea3260cf2ef8861d7b2ed6c4f720c8ab47f7e490e710c0c280c9d8b06ac",
-    "notes": "Исправлена установка больших сторонних APK: файл больше не загружается целиком в память телефона. Он передаётся обычным ADB push небольшими блоками, затем устанавливается с памяти ГУ командой pm install -r -g. Устранён OOM на Wallpaper Engine и других крупных пакетах."
+    "versionCode": 27,
+    "versionName": "4.8",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.18.6/JetourUSB.apk",
+    "sha256": "51bcdfa83658bf65c3160ace9f261cac1909d5574eb4c0246e8c7ca62fd73e01",
+    "notes": "Добавлена кнопка передачи динамического фона на ГУ по локальной Wi‑Fi-сети. Компаньон потоково отправляет файлы до 1 ГБ и автоматически находит Comfort, когда на ГУ включён пятиминутный режим приёма. При установке Comfort также включается узкая служба автоподтверждения системной кнопки установки."
   },
   "wallpaperEngine": {
     "versionCode": 4354,
