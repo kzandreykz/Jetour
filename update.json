@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "comfort": {
-    "versionCode": 124,
-    "versionName": "1.22",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.20.1/JetourComfort.apk",
-    "sha256": "a2f27f17121a1ba34ca1abb8b7b6a3d0cfbb17b52f79f02fdfc05e1802925090",
-    "notes": "Исправлено автоподтверждение системной установки: accessibility-служба теперь получает дерево окна Package Installer и поддерживает AOSP/Google варианты. Динамический HOME восстанавливается после загрузки и автоматически возвращается, если штатный лаунчер перехватил кнопку Домой."
+    "versionCode": 125,
+    "versionName": "1.23",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.20.2/JetourComfort.apk",
+    "sha256": "9ba3ade9180ab62377f931dbcd974c1f00862d67e69141f718a864dd31b65d5e",
+    "notes": "Динамический HOME очищен от верхней панели кнопок, нижней подписи и чёрной подложки status bar. Нижняя штатная панель всегда видна. Компактное меню открывается только отдельной кнопкой и умеет вернуть штатный экран. Сохранены исправления автоподтверждения установки и восстановления HOME."
   },
   "installer": {
     "versionCode": 29,
