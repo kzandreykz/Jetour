@@ -1,24 +1,17 @@
 {
   "schema": 1,
   "comfort": {
-    "versionCode": 122,
-    "versionName": "1.20",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.18.7/JetourComfort.apk",
-    "sha256": "58803c94d32b19dfd2faa6dfcc26930a8f0bafb102f75d5e0cacd9f6dfe7cfa7",
-    "notes": "Добавлена беспроводная передача MP4, WebM, GIF и изображений с Jetour USB прямо в динамический HOME-экран. Приём вручную включается на пять минут, работает в локальной Wi‑Fi-сети без облака и ADB и не держит файл целиком в памяти. Добавлено безопасное автоматическое нажатие системной кнопки установки на ГУ."
+    "versionCode": 123,
+    "versionName": "1.21",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.20/JetourComfort.apk",
+    "sha256": "f3998b750ec42cb40867f8bcb856076a7ed0734c930dbd855d083a7902fde934",
+    "notes": "Удалена неработающая интеграция Wallpaper Engine, её загрузчик и импорт .mpkg. Оставлен собственный динамический HOME с MP4, WebM, GIF и передачей с телефона. Кнопка назначения HOME больше не открывает системный диалог, на котором ГУ блокирует касания."
   },
   "installer": {
-    "versionCode": 27,
-    "versionName": "4.8",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.18.7/JetourUSB.apk",
-    "sha256": "0e5dd04b2dd320b88b9f37a6fcdd8fd58c23b1359970c2746dfd35e31b42bfe1",
-    "notes": "Добавлена кнопка передачи динамического фона на ГУ по локальной Wi‑Fi-сети. Компаньон потоково отправляет файлы до 1 ГБ и автоматически находит Comfort, когда на ГУ включён пятиминутный режим приёма. При установке Comfort также включается узкая служба автоподтверждения системной кнопки установки."
-  },
-  "wallpaperEngine": {
-    "versionCode": 4354,
-    "versionName": "2.8.8",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.18.2/WallpaperEngine.apk",
-    "sha256": "6982c82745444c5f2eef5a3d8c89ad807360bb5849a133548a6b25d18f4c4cb0",
-    "notes": "Официальный неизменённый Wallpaper Engine для Android. Исходный сертификат: SHA-256 7ecc8cb57e5292537fc0af526b35ce42ce0f011692bb88a24a307d1e427bb8e6."
+    "versionCode": 28,
+    "versionName": "4.9",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.20/JetourUSB.apk",
+    "sha256": "5fcf5e8ff58b92adab39eaa4524f67f0e26f9419e30d50677f5d06aec9c82d3d",
+    "notes": "Добавлено прямое переключение рабочего стола ГУ через ADB: динамический HOME Comfort или штатный ALLauncher без неработающего системного окна. Выдача прав расширена до всех доступных runtime-разрешений, специальных AppOps и фоновой работы с повторной проверкой результата."
   }
 }
