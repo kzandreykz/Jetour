@@ -3,7 +3,7 @@
   "comfort": {
     "versionCode": 137,
     "versionName": "1.35",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.21.2/JetourComfort.apk",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.22/JetourComfort.apk",
     "sha256": "cfd6ba6dde951aa308834f1516e5706323d857ff96ae9f779919926d2a9aca85",
     "notes": "Кастомизация динамического экрана: пункт «Настроить экран» позволяет перетащить часы и сетку плиток куда угодно и зафиксировать, а у часов теперь 6 стилей — цифровые, крупные, минимал, стопкой, аналоговые и карточка. Динамические обои включаются одним тумблером в настройках Comfort. Ранее: ярлыки в стиле «жидкое стекло», правильный экран Android Auto, YouTube в окне, кнопка руля открывает Комфорт, плавающий медиа-виджет и онлайн-обои motionbgs."
   },
