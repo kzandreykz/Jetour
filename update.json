@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "comfort": {
-    "versionCode": 144,
-    "versionName": "1.42",
+    "versionCode": 145,
+    "versionName": "1.43",
     "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.22/JetourComfort.apk",
-    "sha256": "4ccc76055b71b105991581ccc19c5d91afb9a31f22ac26cbb9d3519e410f3be6",
-    "notes": "Кнопки руля простыми галками: удержание MODE открывает Android Auto, кнопка «назад» — настройки Комфорта. Настройки переработаны в боковое меню разделов (Климат/Экран/Подключение/Приборка). Плюс обложка трека, плеер всех источников (радио/BT/USB/Android Auto/локальная), умная плитка Android Auto и веб-YouTube в окне."
+    "sha256": "277410f5ce9cf8707e37124507c67981f1a5142d31fa67f95ff129d3a7631cde",
+    "notes": "Кнопка «назад» на руле теперь открывает настройки Комфорта (исправлен код кнопки). Удержание MODE открывает Android Auto. Настройки — боковое меню разделов. Плюс обложка трека, плеер всех источников, умная плитка Android Auto и веб-YouTube в окне."
   },
   "installer": {
     "versionCode": 30,
