@@ -83,3 +83,5 @@
 
 > При первом обновлении Android может запросить разрешение на установку приложений из этого
 > источника и показать системное подтверждение установки.
+
+<img width="1920" height="1080" alt="telegram-cloud-photo-size-2-5300777899071839183-w" src="https://github.com/user-attachments/assets/76e8848e-c23e-4103-96b1-579edede73e2" />
