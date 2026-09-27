@@ -4,14 +4,14 @@
   "comfort": {
     "versionCode": 154,
     "versionName": "1.51",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.22/JetourComfort-dev.apk",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v1.51/JetourComfort-dev.apk",
     "sha256": "bdf3ad62477b4eccdca73bc319e770a015ff0ab4094d69a3bb54fcbf41bb4571",
     "notes": "Тот же билд, что в релизе 1.51. Исправлен краш при запуске на части машин (приложение «моргало» и не открывалось) — вендорские callback переведены на безопасный протокол. Инфо-панель на щитке: температура/давление шин (среднее+разбаланс, алерт низкого давления с названием шины), мгновенный/средний расход со шкалой, средняя скорость, высота, значки блокировок; настройка положения и размера кнопками, toggle в разделе «Приборка». Плюс дев-«Эксперименты» (параметры/яркость/кузов/режимы/запуск приложений)."
   },
   "installer": {
     "versionCode": 32,
     "versionName": "4.13-dev",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v2026.09.22/JetourUSB-dev.apk",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v1.51/JetourUSB-dev.apk",
     "sha256": "572592798d6991f4e03d47a138948b6691402d202cd44cf7da855b0c83519348",
     "notes": "Тестовый канал компаньона. Исправлен INSTALL_FAILED_VERSION_DOWNGRADE (pm install -d) — переключение дев↔релиз без ошибки."
   }
