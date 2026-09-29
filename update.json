@@ -2,17 +2,17 @@
   "schema": 1,
   "channel": "dev",
   "comfort": {
-    "versionCode": 155,
-    "versionName": "1.52",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v1.51/JetourComfort-dev.apk",
-    "sha256": "f416c35f0caf4ffab9fcf5376b645e32fec110756ae26ea65c38f3a5118b952d",
-    "notes": "Comfort переведён на ПЛАТФОРМЕННУЮ подпись (system-app) — самодостаточен на ГУ: сам выдаёт права/appops, ставит/обновляет/удаляет APK, назначает себя HOME, раздаёт права другим приложениям. Раздел «Приложения»: установка YouTube (microG+Cromite с офиц. репо), установка APK с флешки, приём файлов/APK/обоев с телефона, автоподтверждение. Плитка «Браузер» на HOME. ВАЖНО: смена подписи debug→platform — разовая переустановка через Jetour USB 4.14 (обычный self-update покажет подсказку)."
+    "versionCode": 157,
+    "versionName": "1.54",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v1.54/JetourComfort-dev.apk",
+    "sha256": "35982453dd263b79189c27bc179b25814006308daf69d124bcd0d26727e6cd27",
+    "notes": "Добавлен обогрев заднего стекла и зеркал (авто по температуре + таймер, рядом с обогревом лобового). Браузер переведён на лёгкий Lightning вместо Cromite, который вешал ГУ. Инфо-панель приборки обновляется до 30 раз/сек и больше не залипает на заглушке после настройки положения. Климат-настройки в 4 колонки, чистка интерфейса. Требуется платформенная подпись — переход с версии 1.51 выполняется через приложение Jetour USB."
   },
   "installer": {
-    "versionCode": 33,
-    "versionName": "4.14-dev",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v1.51/JetourUSB-dev.apk",
-    "sha256": "82257b5145b1fa85688607aeade526bd1320f34f40789acf4453f975eca1807e",
-    "notes": "Урезан до установки/обновления/удаления + передача любого файла на ГУ. При смене подписи (debug↔platform) ставит через pm uninstall+install."
+    "versionCode": 34,
+    "versionName": "4.15",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v1.54/JetourUSB-dev.apk",
+    "sha256": "25824d6dff70d2ee36b0f25b8cd6e0c589dfabfa08996cc9b2626290024fb658",
+    "notes": "Установка/обновление Comfort 1.54 и перенос любых файлов/APK с телефона на ГУ. При смене подписи (debug→платформенная) переустанавливает Comfort автоматически."
   }
 }
