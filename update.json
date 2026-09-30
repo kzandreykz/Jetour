@@ -2,17 +2,17 @@
   "schema": 1,
   "channel": "dev",
   "comfort": {
-    "versionCode": 158,
-    "versionName": "1.55",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v1.56/JetourComfort-dev.apk",
-    "sha256": "e970108c07428cf7fe617c86530bf9a9ed31ddba584633a6e66981ab2eff8e2c",
-    "notes": "Диспетчер приложений: закрытие запущенных приложений, открывается удержанием назначенной кнопки руля (Настройки → Система → Кнопки руля → Диспетчер приложений → Назначить; по умолчанию кнопка не назначена). Остальное без изменений с 1.54. Требуется платформенная подпись — переход с 1.51 через Jetour USB."
+    "versionCode": 154,
+    "versionName": "1.51",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v1.51/JetourComfort.apk",
+    "sha256": "bdf3ad62477b4eccdca73bc319e770a015ff0ab4094d69a3bb54fcbf41bb4571",
+    "notes": "Обновления временно приостановлены (разбираемся с проблемой языка). Останьтесь на текущей версии."
   },
   "installer": {
-    "versionCode": 35,
-    "versionName": "4.16",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v1.56/JetourUSB-dev.apk",
-    "sha256": "5fedbc8f123d7b14042c8ca7b3a304215f9466927a7fc302bae8ea0067ea8931",
-    "notes": "Передача на ГУ принимает любой файл (APK, документы, архивы, обои), а не только медиа — ГУ разбирает по типу. Установка/обновление Comfort; при смене подписи (debug→платформенная) переустанавливает автоматически."
+    "versionCode": 32,
+    "versionName": "4.13",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v1.51/JetourUSB.apk",
+    "sha256": "572592798d6991f4e03d47a138948b6691402d202cd44cf7da855b0c83519348",
+    "notes": "Обновления временно приостановлены."
   }
 }
