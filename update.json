@@ -2,17 +2,17 @@
   "schema": 1,
   "channel": "dev",
   "comfort": {
-    "versionCode": 157,
-    "versionName": "1.54",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v1.54/JetourComfort-dev.apk",
-    "sha256": "35982453dd263b79189c27bc179b25814006308daf69d124bcd0d26727e6cd27",
-    "notes": "Добавлен обогрев заднего стекла и зеркал (авто по температуре + таймер, рядом с обогревом лобового). Браузер переведён на лёгкий Lightning вместо Cromite, который вешал ГУ. Инфо-панель приборки обновляется до 30 раз/сек и больше не залипает на заглушке после настройки положения. Климат-настройки в 4 колонки, чистка интерфейса. Требуется платформенная подпись — переход с версии 1.51 выполняется через приложение Jetour USB."
+    "versionCode": 158,
+    "versionName": "1.55",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v1.55/JetourComfort-dev.apk",
+    "sha256": "e970108c07428cf7fe617c86530bf9a9ed31ddba584633a6e66981ab2eff8e2c",
+    "notes": "Диспетчер приложений: закрытие запущенных приложений, открывается удержанием назначенной кнопки руля (Настройки → Система → Кнопки руля → Диспетчер приложений → Назначить; по умолчанию кнопка не назначена). Остальное без изменений с 1.54. Требуется платформенная подпись — переход с 1.51 через Jetour USB."
   },
   "installer": {
     "versionCode": 34,
     "versionName": "4.15",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v1.54/JetourUSB-dev.apk",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v1.55/JetourUSB-dev.apk",
     "sha256": "25824d6dff70d2ee36b0f25b8cd6e0c589dfabfa08996cc9b2626290024fb658",
-    "notes": "Установка/обновление Comfort 1.54 и перенос любых файлов/APK с телефона на ГУ. При смене подписи (debug→платформенная) переустанавливает Comfort автоматически."
+    "notes": "Установка/обновление Comfort и перенос любых файлов/APK с телефона на ГУ. При смене подписи (debug→платформенная) переустанавливает Comfort автоматически."
   }
 }
