@@ -4,15 +4,15 @@
   "comfort": {
     "versionCode": 160,
     "versionName": "1.57",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v1.58/JetourComfort-dev.apk",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v1.59/JetourComfort-dev.apk",
     "sha256": "1b6d79057ec35d0b21d34945be78f7f8a08a930a26e2067a7b0ae927dc447c6a",
     "notes": "Сторож локали (язык не слетает), Android Auto 5 ГГц, своё NTP-время, кнопки перезагрузки/удаления. Платформенная подпись — переход с 1.51 через Jetour USB."
   },
   "installer": {
-    "versionCode": 36,
-    "versionName": "4.17",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v1.58/JetourUSB-dev.apk",
-    "sha256": "632e6ab13aff28d1f5c460f3f5e98680289b536da087390a7b9f462079a13b2f",
-    "notes": "Исправлена проверка обновлений (подпись Comfort сверяется с вложенным эталоном). Передача любого файла на ГУ."
+    "versionCode": 37,
+    "versionName": "4.18",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v1.59/JetourUSB-dev.apk",
+    "sha256": "7cfe0d51f268a4e9ef917378b04f21254aa53911af5d2a2b648f81a375555afc",
+    "notes": "Исправлена передача файла на ГУ: сокет привязывается к локальной сети (раньше при активном мобильном интернете уходил в сотовую сеть)."
   }
 }
