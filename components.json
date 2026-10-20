@@ -18,8 +18,8 @@
       "versionName": "allapps-patch",
       "versionCode": 1,
       "url": "https://github.com/kzandreykz/Jetour/releases/download/hu-components/ALSystemUIPlug-allapps.apk",
-      "sha256": "160942ac7ab830d1a2a0ca8de6ff60f22be5e436a8fb1bc328c85910bf8e59aa",
-      "notes": "Нижнее меню приложений показывает все установленные. После установки перезапустить SystemUI."
+      "sha256": "ccdef9e75730b18ccb249dbe515d0d9288c04560d662707c8665f52e02849020",
+      "notes": "Меню приложений: иконки + скрытие мусора. Список скрытых — Settings.Global comfort_bar_hidden_apps. После установки перезапустить SystemUI."
     }
   ]
 }
