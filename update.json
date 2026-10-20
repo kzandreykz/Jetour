@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "dev",
   "comfort": {
-    "versionCode": 160,
-    "versionName": "1.57",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v1.59/JetourComfort-dev.apk",
-    "sha256": "1b6d79057ec35d0b21d34945be78f7f8a08a930a26e2067a7b0ae927dc447c6a",
-    "notes": "Сторож локали (язык не слетает), Android Auto 5 ГГц, своё NTP-время, кнопки перезагрузки/удаления. Платформенная подпись — переход с 1.51 через Jetour USB."
+    "versionCode": 180,
+    "versionName": "1.77",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v1.77/JetourComfort-dev.apk",
+    "sha256": "05adf93746e7431a42056e4898366cda22676b45f4c36cbf7780d4d473978fda",
+    "notes": "Язык не слетает на казахский (приложения + приборка). Приложения из меню ГУ не моргают. Удаление Комфорта сносит и компоненты (можно по отдельности). «Приложения» компактнее. В «Климате»: оценка тепла в салоне по двигателю и пропуск подогрева на прогретом моторе (порог настраивается). Платформенная подпись — переход с 1.51 через Jetour USB."
   },
   "installer": {
     "versionCode": 37,
