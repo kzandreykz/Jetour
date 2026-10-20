@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "components": [
+    {
+      "id": "webview",
+      "label": "WebView → Chrome 128",
+      "package": "com.android.webview",
+      "versionName": "128.0.6613.88",
+      "versionCode": 661308801,
+      "url": "https://github.com/kzandreykz/Jetour/releases/download/hu-components/WebView-chrome128.apk",
+      "sha256": "448289169c6264c5e856bbe562d843f6fd7841bf781ea81049a49aa8b071b9d4",
+      "notes": "Современный движок WebView (был Chrome 83). Переподписан штатным ключом, ставится поверх штатного."
+    },
+    {
+      "id": "allapps_plugin",
+      "label": "Меню всех приложений (нижний бар)",
+      "package": "com.autolink.systemui.plugin",
+      "versionName": "allapps-patch",
+      "versionCode": 1,
+      "url": "https://github.com/kzandreykz/Jetour/releases/download/hu-components/ALSystemUIPlug-allapps.apk",
+      "sha256": "160942ac7ab830d1a2a0ca8de6ff60f22be5e436a8fb1bc328c85910bf8e59aa",
+      "notes": "Нижнее меню приложений показывает все установленные. После установки перезапустить SystemUI."
+    }
+  ]
+}
