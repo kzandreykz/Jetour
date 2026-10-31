@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "dev",
   "comfort": {
-    "versionCode": 186,
-    "versionName": "1.83",
-    "url": "https://github.com/kzandreykz/Jetour/releases/download/v1.83/JetourComfort-dev.apk",
-    "sha256": "2317edab2a507e9c0a059c3441dd56870290cd73446c2d9d11d8f86145e85941",
-    "notes": "Онлайн-обои motionbgs: на вкладке «Скачанные» теперь можно удалять скачанные обои — «Выбрать», отметить ненужные и «Удалить» (если удалён текущий фон — вернётся стандартный). Остальное — как в 1.82. Требуется платформенная подпись — переход с 1.51 через Jetour USB."
+    "versionCode": 187,
+    "versionName": "1.84",
+    "url": "https://github.com/kzandreykz/Jetour/releases/download/v1.84/JetourComfort-dev.apk",
+    "sha256": "0b1f6f7fb2def80b75495983576f0d00d6ab03078366b592211f6383d51f2021",
+    "notes": "Новый раздел «Звук» — эквалайзер DSP через MediaDebug (Bosch audio tuning). 14 готовых пресетов (Rock, Marshall, Клуб, Хип-хоп, Рэп/R&B, Электро/EDM, Поп/Вокал, Джаз/Акустика, Классика, Бас-буст, Голос/Подкаст, Ночь/loudness, Harman, Ламповый) + загрузка пресета из файла (экспорт MediaDebug .json). Регуляторы звуковой сцены (вперёд/назад) и общего усиления (−12…+12 дБ). Применяется в фоне, не открывая экран; автозапуск при старте ГУ возвращает звук после перезагрузки (DSP сбрасывается, настройки — нет). Требуется платформенная подпись — переход с 1.51 через Jetour USB."
   },
   "installer": {
     "versionCode": 37,
